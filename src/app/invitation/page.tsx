@@ -23,24 +23,24 @@ const Invitation = () => {
         </div>
 
         <div className={styles.groomDetailsWrapper}>
-          <div className={styles.name}>Jagadish Varma</div>
-          <div className={styles.context}>S/o Mantena Venkata Bangarraju</div>
+          <div className={styles.name}>Jnanendra Varma</div>
+          <div className={styles.context}>S/o Venkata Naga Varaprasada Raju</div>
           <div className={styles.context}>&</div>
-          <div className={styles.context}>Smt Surya kumari</div>
+          <div className={styles.context}>Smt Uma Devi</div>
         </div>
         {/* <div className={styles.and}>&</div> */}
         <div className={styles.brideDetailsWrapper}>
-          <div className={styles.name}>Ramani Naveena</div>
-          <div className={styles.context}>D/o Penmetsa Venkata Raju</div>
+          <div className={styles.name}>Pranathi</div>
+          <div className={styles.context}>D/o Vegesna Venkata Subba Raju</div>
           <div className={styles.context}>&</div>
-          <div className={styles.context}>Smt Rajani</div>
+          <div className={styles.context}>Smt Sitamani</div>
         </div>
         <div className={styles.sumuhurthamWrapper}>
           <div className={styles.name}>Sumuhurtham</div>
-          <div className={styles.context}>On Thursday</div>
-          <div className={styles.context}>20, February,2025</div>
-          <div className={styles.context}>Night at 5:05 am</div>
-          <div className={styles.context}>{`(Early morning of Friday)`}</div>
+          <div className={styles.context}>On Friday</div>
+          <div className={styles.context}>14, March,2025</div>
+          <div className={styles.context}>Night at 3:38 am</div>
+          <div className={styles.context}>{`(Early morning of Saturday)`}</div>
         </div>
         <div className={styles.venueWrapper}>
           <div className={styles.name}>Venue</div>
@@ -50,7 +50,7 @@ const Invitation = () => {
         </div>
         <div className={styles.dinnerWrapper}>
           <div className={styles.name}>Dinner</div>
-          <div className={styles.context}>On Thursday, 20 February, 2025</div>
+          <div className={styles.context}>On Friday, 14 March, 2025</div>
           <div className={styles.context}>From 6:30 pm at venue</div>
         </div>
       </div>
