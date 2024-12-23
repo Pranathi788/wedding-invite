@@ -11,10 +11,10 @@ export default function Home() {
           <Image src={contact} alt="image" width={280} height={150} />
         </div>
         <div className={styles.numberWrapper}>
-          <a className={styles.number} href="tel:+919491978899">
+          <a className={styles.number} href="tel:+919989089278">
             +91 9491978899
           </a>
-          <a className={styles.number} href="tel:+919963549497">
+          <a className={styles.number} href="tel:+918008556538">
             +91 9963549497
           </a>
         </div>
