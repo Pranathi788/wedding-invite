@@ -43,8 +43,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Jnanendra & Pranathi",
-  description: "Wedding Invite for Jnanendra & Pranathi",
+  title: "Satya & Pranathi",
+  description: "Wedding Invite for Satya & Pranathi",
 };
 
 export default function RootLayout({
