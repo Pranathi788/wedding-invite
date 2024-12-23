@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <div className={styles.page}>
       <main className={`${styles.main} ${styles.mobile}`}>
-        <div className={styles.title}>Jagadish & Naveena</div>
+        <div className={styles.title}>Jnanendra & Pranathi</div>
         <Image
           src={imageTop}
           className={styles.mobileHeader}
@@ -51,7 +51,7 @@ export default function Home() {
         <div className={styles.mobileLineFive}></div>
       </main>
       <main className={`${styles.main} ${styles.desktop}`}>
-        <div className={styles.title}>Jagadish & Naveena</div>
+        <div className={styles.title}>Jnanendra & Pranathi</div>
 
         <div className={styles.imageWrapper}>
           <div className={`${styles.imageLine} ${styles.lineOne}`}>
