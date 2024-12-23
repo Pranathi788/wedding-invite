@@ -12,10 +12,10 @@ export default function Home() {
         </div>
         <div className={styles.numberWrapper}>
           <a className={styles.number} href="tel:+919989089278">
-            +91 9491978899
+            +91 9989089278
           </a>
           <a className={styles.number} href="tel:+918008556538">
-            +91 9963549497
+            +91 8008556538
           </a>
         </div>
       </main>
