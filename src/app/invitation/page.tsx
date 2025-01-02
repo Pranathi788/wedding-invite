@@ -23,7 +23,7 @@ const Invitation = () => {
         </div>
 
         <div className={styles.groomDetailsWrapper}>
-          <div className={styles.name}>Satya</div>
+          <div className={styles.name}>Jnanendra</div>
           <div className={styles.context}>S/o Dandu Venkata Naga Varaprasada Raju</div>
           <div className={styles.context}>&</div>
           <div className={styles.context}>Smt Uma Devi</div>
