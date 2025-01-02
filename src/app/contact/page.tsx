@@ -14,8 +14,8 @@ export default function Home() {
           <a className={styles.number} href="tel:+919989089278">
             +91 9989089278
           </a>
-          <a className={styles.number} href="tel:+918008556538">
-            +91 8008556538
+          <a className={styles.number} href="tel:+919491862233">
+            +91 9491862233
           </a>
         </div>
       </main>
