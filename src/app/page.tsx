@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.mobileLineOne}>
           <a
             className={`${styles.button} ${styles.mobileButtonOne}`}
-            href="/wedding-invite/src/app/invitation"
+            href="/wedding-invite/invitation"
           >
             Invitation
           </a>
