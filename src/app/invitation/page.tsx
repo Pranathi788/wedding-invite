@@ -23,17 +23,17 @@ const Invitation = () => {
         </div>
 
         <div className={styles.groomDetailsWrapper}>
-          <div className={styles.name}>Jnanendra</div>
-          <div className={styles.context}>S/o Dandu Venkata Naga Varaprasada Raju</div>
-          <div className={styles.context}>&</div>
-          <div className={styles.context}>Smt Uma Devi</div>
-        </div>
-        {/* <div className={styles.and}>&</div> */}
-        <div className={styles.brideDetailsWrapper}>
           <div className={styles.name}>Pranathi</div>
           <div className={styles.context}>D/o Vegesna Venkata Subba Raju</div>
           <div className={styles.context}>&</div>
           <div className={styles.context}>Smt Sitamani</div>
+        </div>
+        {/* <div className={styles.and}>&</div> */}
+        <div className={styles.brideDetailsWrapper}>
+          <div className={styles.name}>Jnanendra</div>
+          <div className={styles.context}>S/o Dandu Venkata Naga Varaprasada Raju</div>
+          <div className={styles.context}>&</div>
+          <div className={styles.context}>Smt Uma Devi</div>
         </div>
         <div className={styles.sumuhurthamWrapper}>
           <div className={styles.name}>Sumuhurtham</div>
